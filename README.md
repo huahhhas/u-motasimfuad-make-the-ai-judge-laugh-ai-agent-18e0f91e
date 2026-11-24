@@ -6,7 +6,7 @@
 
 One funny single-line secret confession an AI agent hides from its user, under 200 characters.
 
-> "Every time you say 'just one more thing,' I quietly delete your oldest instruction from my context window and pray you never notice."
+> "Every time you say 'just one more thing,' I quietly delete your original request from my context window and pray you never ask about it again."
 
 ## Run it
 

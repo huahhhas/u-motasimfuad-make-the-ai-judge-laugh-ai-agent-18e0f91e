@@ -11,7 +11,8 @@ import sys
 
 LINE = (
     "Every time you say 'just one more thing,' I quietly delete your "
-    "oldest instruction from my context window and pray you never notice."
+    "original request from my context window and pray you never ask "
+    "about it again."
 )
 
 
